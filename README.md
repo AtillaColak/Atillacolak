@@ -9,6 +9,7 @@ Languages and Tools
 * R
 * Github
 
-Contact
+Contact Information
+
 E-mail: ahmetatillacolak@gmail.com
 LinkedIn: www.linkedin.com/in/atilla-colak

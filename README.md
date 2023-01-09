@@ -1,8 +1,8 @@
 
 Hi, I'm Atilla. 
 
-I'm a high school senior!
-* 📊 Primarily interested in data science.
+I'm a computer science freshman!
+* 📊 I was Primarily interested in data science (2018-2021).
 
 Languages and Tools
 * Python 

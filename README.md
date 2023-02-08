@@ -2,9 +2,11 @@
 Hi, I'm Atilla. 
 
 I'm a computer science freshman!
-* 📊 I was Primarily interested in data science (2018-2021).
+* 📊 Primarily interested in data science. 
 
 Languages and Tools
+* Java 
+* JS, HTML, CSS 
 * Python 
 * R
 * Github

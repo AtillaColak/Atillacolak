@@ -9,7 +9,7 @@ Languages and Tools
 * JS, HTML, CSS 
 * Python 
 * R
-* Github
+* Git
 
 Contact Information
 

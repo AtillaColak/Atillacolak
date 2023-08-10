@@ -1,14 +1,16 @@
 
 Hi, I'm Atilla. 
 
-I'm a computer science freshman!
-* 📊 Primarily interested in data science. 
+I'm a computer science rising sophomore!
+* Was Primarily interested in data science.
+* Now I just try to learn everything I can about web development. 
 
 Languages and Tools
 * Java 
-* JS, HTML, CSS 
-* Python 
-* R
+* JS (react), HTML, CSS (tailwind)
+* Typescript 
+* Python (Pandas, Numpy, Scikit-learn, Flask) 
+* R (shiny, tidyverse) 
 * Git
 
 Contact Information

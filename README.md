@@ -6,10 +6,11 @@ I'm a computer science rising sophomore!
 * Now I just try to learn everything I can about cs. 
 
 Languages and Tools
-* Java
+* Java (Spring)
 * C, C++
 * Assembly x86-64
 * JS (react), HTML, CSS (tailwind)
+* NextJS
 * Typescript 
 * Python (Pandas, Numpy, Scikit-learn, Flask, Django) 
 * R (shiny, tidyverse) 

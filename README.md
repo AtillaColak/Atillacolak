@@ -1,7 +1,7 @@
 
 Hi, I'm Atilla. 
 
-I'm a computer science rising sophomore!
+I'm a computer science rising senior!
 * Was Primarily interested in data science.
 * Now I just try to learn everything I can about cs. 
 

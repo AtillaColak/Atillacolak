@@ -1,9 +1,10 @@
-
 Hi, I'm Atilla. 
 
 I'm a computer science rising senior!
-* Was Primarily interested in data science.
-* Now I just try to learn everything I can about cs. 
+* Was Primarily interested in data science in high school.
+* Now I just try to learn everything I can about cs and app dev.
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AtillaColak)](https://leetcode.com/AtillaColak)
 
 Languages and Tools
 * Java (Spring)

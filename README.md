@@ -1,15 +1,17 @@
-Started with data science in high school; currently, doing everything. 
+## Background
+* TU Delft - CSE (2022-25), SWE @ Booking (<b>2025 - present</b>)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/AtillaColak)](https://leetcode.com/AtillaColak)
 
-Languages and Tools
+## Stuff I use(d?)
 * Java (Spring)
 * C, C++
 * Assembly x86-64
 * JS (react), HTML, CSS (tailwind)
-* Typescript 
+* Typescript (Next)
 * Python (Pandas, Numpy, Scikit-learn, Flask, Django)
 * Go
 * R (shiny, tidyverse)
-* NextJS
+* Haskell, Scala
 * Git
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AtillaColak)](https://leetcode.com/AtillaColak)

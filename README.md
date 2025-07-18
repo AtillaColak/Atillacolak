@@ -1,13 +1,13 @@
-## Stuff I use(d?) (Ones I remember
+## Stuff I use(d?) (Ones I Remember At Least)
 * Java (Spring)
 * C, C++
 * Assembly x86-64
-* JS (react), HTML, CSS (tailwind)
-* Typescript (Next)
-* Python (Pandas, Numpy, Scikit-learn, Flask, Django)
+* JS (react), HTML, CSS (tailwind), TS
+* NEXT
+* Python (Pandas, Numpy, Scikit-learn, Flask, Django, OpenCV, PIL)
 * Go
 * R (shiny, tidyverse)
-* Haskell, Scala
+* Haskell, Scala, Agda
 * Git
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/AtillaColak)](https://leetcode.com/AtillaColak)

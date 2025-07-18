@@ -1,8 +1,4 @@
-## Background
-* TU Delft - CSE (2022-25), SWE @ Booking (<b>2025 - present</b>)
-
-
-## Stuff I use(d?)
+## Stuff I use(d?) (Ones I remember
 * Java (Spring)
 * C, C++
 * Assembly x86-64
